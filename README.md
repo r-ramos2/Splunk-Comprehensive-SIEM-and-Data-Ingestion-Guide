@@ -13,7 +13,7 @@ This guide demonstrates how to leverage Splunk as a Security Information and Eve
 5. [Configuring Alerts](#5-configuring-alerts)
 6. [Creating Dynamic Dashboards](#6-creating-dynamic-dashboards)
 7. [Sample Queries for Threat Detection](#7-sample-queries-for-threat-detection)
-8. [Additional Resources](#8-additional-resources)
+8. [Resources](#8-resources)
 
 ---
 
@@ -173,7 +173,7 @@ index=botsv3 sourcetype="stream:http"
 
 ---
 
-## 8. **Additional Resources**
+## 8. **Resources**
 - [Splunk Documentation](https://docs.splunk.com/Documentation/Splunk)
 - [Splunk Security Essentials](https://splunkbase.splunk.com/app/3435/)
 - [Splunk GitHub: Bots v3 Dataset](https://github.com/splunk/botsv3)
@@ -183,5 +183,3 @@ index=botsv3 sourcetype="stream:http"
 
 ## **Conclusion**
 This comprehensive guide demonstrates the advanced use of Splunk for cybersecurity operations, from data ingestion to dashboard creation and query optimization. It highlights best practices in search processing and alert configuration, ensuring efficient monitoring and detection of potential security threats.
-
-Feel free to raise an issue or submit a pull request for improvements!
