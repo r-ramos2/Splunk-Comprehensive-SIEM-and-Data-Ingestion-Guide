@@ -1,19 +1,21 @@
 # **Splunk: Comprehensive SIEM and Data Ingestion Guide**
 
-## **Overview**
-This guide demonstrates how to leverage Splunk as a Security Information and Event Management (SIEM) tool. It includes the installation process, data ingestion, real-time event monitoring, query optimization, alert configuration, and dashboard creation. Designed for cybersecurity experts, it focuses on using Splunk to detect, analyze, and respond to threats.
+## **Table of Contents**
+1. [Overview](#overview)
+2. [Splunk Enterprise Installation](#1-splunk-enterprise-installation)
+3. [Data Ingestion and Index Creation](#2-data-ingestion-and-index-creation)
+4. [Real-time Event Monitoring](#3-real-time-event-monitoring)
+5. [Optimized Search Processing with SPL](#4-optimized-search-processing-with-spl)
+6. [Configuring Alerts](#5-configuring-alerts)
+7. [Creating Dynamic Dashboards](#6-creating-dynamic-dashboards)
+8. [Sample Queries for Threat Detection](#7-sample-queries-for-threat-detection)
+9. [Resources](#8-resources)
+10. [Conclusion](#conclusion)
 
 ---
 
-## **Table of Contents**
-1. [Splunk Enterprise Installation](#1-splunk-enterprise-installation)
-2. [Data Ingestion and Index Creation](#2-data-ingestion-and-index-creation)
-3. [Real-time Event Monitoring](#3-real-time-event-monitoring)
-4. [Optimized Search Processing with SPL](#4-optimized-search-processing-with-spl)
-5. [Configuring Alerts](#5-configuring-alerts)
-6. [Creating Dynamic Dashboards](#6-creating-dynamic-dashboards)
-7. [Sample Queries for Threat Detection](#7-sample-queries-for-threat-detection)
-8. [Resources](#8-resources)
+## **Overview**
+This guide demonstrates how to leverage Splunk as a Security Information and Event Management (SIEM) tool. It includes the installation process, data ingestion, real-time event monitoring, query optimization, alert configuration, and dashboard creation. Designed for cybersecurity experts, it focuses on using Splunk to detect, analyze, and respond to threats.
 
 ---
 
