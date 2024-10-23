@@ -9,8 +9,8 @@
 6. [Configuring Alerts](#5-configuring-alerts)
 7. [Creating Dynamic Dashboards](#6-creating-dynamic-dashboards)
 8. [Sample Queries for Threat Detection](#7-sample-queries-for-threat-detection)
-9. [Resources](#8-resources)
-10. [Conclusion](#conclusion)
+9. [Conclusion](#conclusion)
+10. [Resources](#8-resources)
 
 ---
 
@@ -175,13 +175,13 @@ index=botsv3 sourcetype="stream:http"
 
 ---
 
+## **Conclusion**
+This comprehensive guide demonstrates the advanced use of Splunk for cybersecurity operations, from data ingestion to dashboard creation and query optimization. It highlights best practices in search processing and alert configuration, ensuring efficient monitoring and detection of potential security threats.
+
+---
+
 ## 8. **Resources**
 - [Splunk Documentation](https://docs.splunk.com/Documentation/Splunk)
 - [Splunk Security Essentials](https://splunkbase.splunk.com/app/3435/)
 - [Splunk GitHub: Bots v3 Dataset](https://github.com/splunk/botsv3)
 - [Splunk Security Workshops](https://www.splunk.com/en_us/resources.html)
-
----
-
-## **Conclusion**
-This comprehensive guide demonstrates the advanced use of Splunk for cybersecurity operations, from data ingestion to dashboard creation and query optimization. It highlights best practices in search processing and alert configuration, ensuring efficient monitoring and detection of potential security threats.
